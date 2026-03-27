@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: "https://author-p190755-e1989499.adobeaemcloud.com/bin/franklin.delivery/woutervangeluwe/techinsiders-ondemand-citisignal-aem-accs6/main"
+    type: "markup"
+    suffix: ".html"
+folders:
+  /products/: /products/default   
